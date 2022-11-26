@@ -1,0 +1,15 @@
+D:\ProgrammingStuff\Prog2Zh\cs\String1\String1\bin\Debug\net6.0\String1.exe
+D:\ProgrammingStuff\Prog2Zh\cs\String1\String1\bin\Debug\net6.0\String1.deps.json
+D:\ProgrammingStuff\Prog2Zh\cs\String1\String1\bin\Debug\net6.0\String1.runtimeconfig.json
+D:\ProgrammingStuff\Prog2Zh\cs\String1\String1\bin\Debug\net6.0\String1.dll
+D:\ProgrammingStuff\Prog2Zh\cs\String1\String1\bin\Debug\net6.0\String1.pdb
+D:\ProgrammingStuff\Prog2Zh\cs\String1\String1\obj\Debug\net6.0\String1.csproj.AssemblyReference.cache
+D:\ProgrammingStuff\Prog2Zh\cs\String1\String1\obj\Debug\net6.0\String1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingStuff\Prog2Zh\cs\String1\String1\obj\Debug\net6.0\String1.AssemblyInfoInputs.cache
+D:\ProgrammingStuff\Prog2Zh\cs\String1\String1\obj\Debug\net6.0\String1.AssemblyInfo.cs
+D:\ProgrammingStuff\Prog2Zh\cs\String1\String1\obj\Debug\net6.0\String1.csproj.CoreCompileInputs.cache
+D:\ProgrammingStuff\Prog2Zh\cs\String1\String1\obj\Debug\net6.0\String1.dll
+D:\ProgrammingStuff\Prog2Zh\cs\String1\String1\obj\Debug\net6.0\refint\String1.dll
+D:\ProgrammingStuff\Prog2Zh\cs\String1\String1\obj\Debug\net6.0\String1.pdb
+D:\ProgrammingStuff\Prog2Zh\cs\String1\String1\obj\Debug\net6.0\String1.genruntimeconfig.cache
+D:\ProgrammingStuff\Prog2Zh\cs\String1\String1\obj\Debug\net6.0\ref\String1.dll

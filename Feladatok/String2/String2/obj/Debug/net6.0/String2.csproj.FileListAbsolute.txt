@@ -1,0 +1,15 @@
+D:\ProgrammingStuff\Prog2Zh\cs\String2\String2\bin\Debug\net6.0\String2.exe
+D:\ProgrammingStuff\Prog2Zh\cs\String2\String2\bin\Debug\net6.0\String2.deps.json
+D:\ProgrammingStuff\Prog2Zh\cs\String2\String2\bin\Debug\net6.0\String2.runtimeconfig.json
+D:\ProgrammingStuff\Prog2Zh\cs\String2\String2\bin\Debug\net6.0\String2.dll
+D:\ProgrammingStuff\Prog2Zh\cs\String2\String2\bin\Debug\net6.0\String2.pdb
+D:\ProgrammingStuff\Prog2Zh\cs\String2\String2\obj\Debug\net6.0\String2.csproj.AssemblyReference.cache
+D:\ProgrammingStuff\Prog2Zh\cs\String2\String2\obj\Debug\net6.0\String2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingStuff\Prog2Zh\cs\String2\String2\obj\Debug\net6.0\String2.AssemblyInfoInputs.cache
+D:\ProgrammingStuff\Prog2Zh\cs\String2\String2\obj\Debug\net6.0\String2.AssemblyInfo.cs
+D:\ProgrammingStuff\Prog2Zh\cs\String2\String2\obj\Debug\net6.0\String2.csproj.CoreCompileInputs.cache
+D:\ProgrammingStuff\Prog2Zh\cs\String2\String2\obj\Debug\net6.0\String2.dll
+D:\ProgrammingStuff\Prog2Zh\cs\String2\String2\obj\Debug\net6.0\refint\String2.dll
+D:\ProgrammingStuff\Prog2Zh\cs\String2\String2\obj\Debug\net6.0\String2.pdb
+D:\ProgrammingStuff\Prog2Zh\cs\String2\String2\obj\Debug\net6.0\String2.genruntimeconfig.cache
+D:\ProgrammingStuff\Prog2Zh\cs\String2\String2\obj\Debug\net6.0\ref\String2.dll
