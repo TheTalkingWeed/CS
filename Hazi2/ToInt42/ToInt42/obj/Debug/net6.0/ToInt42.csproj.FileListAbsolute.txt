@@ -1,0 +1,15 @@
+D:\ProgrammingStuff\RiderProjects\Hazi2\ToInt42\ToInt42\bin\Debug\net6.0\ToInt42.exe
+D:\ProgrammingStuff\RiderProjects\Hazi2\ToInt42\ToInt42\bin\Debug\net6.0\ToInt42.deps.json
+D:\ProgrammingStuff\RiderProjects\Hazi2\ToInt42\ToInt42\bin\Debug\net6.0\ToInt42.runtimeconfig.json
+D:\ProgrammingStuff\RiderProjects\Hazi2\ToInt42\ToInt42\bin\Debug\net6.0\ToInt42.dll
+D:\ProgrammingStuff\RiderProjects\Hazi2\ToInt42\ToInt42\bin\Debug\net6.0\ToInt42.pdb
+D:\ProgrammingStuff\RiderProjects\Hazi2\ToInt42\ToInt42\obj\Debug\net6.0\ToInt42.csproj.AssemblyReference.cache
+D:\ProgrammingStuff\RiderProjects\Hazi2\ToInt42\ToInt42\obj\Debug\net6.0\ToInt42.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingStuff\RiderProjects\Hazi2\ToInt42\ToInt42\obj\Debug\net6.0\ToInt42.AssemblyInfoInputs.cache
+D:\ProgrammingStuff\RiderProjects\Hazi2\ToInt42\ToInt42\obj\Debug\net6.0\ToInt42.AssemblyInfo.cs
+D:\ProgrammingStuff\RiderProjects\Hazi2\ToInt42\ToInt42\obj\Debug\net6.0\ToInt42.csproj.CoreCompileInputs.cache
+D:\ProgrammingStuff\RiderProjects\Hazi2\ToInt42\ToInt42\obj\Debug\net6.0\ToInt42.dll
+D:\ProgrammingStuff\RiderProjects\Hazi2\ToInt42\ToInt42\obj\Debug\net6.0\refint\ToInt42.dll
+D:\ProgrammingStuff\RiderProjects\Hazi2\ToInt42\ToInt42\obj\Debug\net6.0\ToInt42.pdb
+D:\ProgrammingStuff\RiderProjects\Hazi2\ToInt42\ToInt42\obj\Debug\net6.0\ToInt42.genruntimeconfig.cache
+D:\ProgrammingStuff\RiderProjects\Hazi2\ToInt42\ToInt42\obj\Debug\net6.0\ref\ToInt42.dll
