@@ -1,0 +1,15 @@
+D:\ProgrammingStuff\RiderProjects\Hazi2\ListComp\ListComp\bin\Debug\net6.0\ListComp.exe
+D:\ProgrammingStuff\RiderProjects\Hazi2\ListComp\ListComp\bin\Debug\net6.0\ListComp.deps.json
+D:\ProgrammingStuff\RiderProjects\Hazi2\ListComp\ListComp\bin\Debug\net6.0\ListComp.runtimeconfig.json
+D:\ProgrammingStuff\RiderProjects\Hazi2\ListComp\ListComp\bin\Debug\net6.0\ListComp.dll
+D:\ProgrammingStuff\RiderProjects\Hazi2\ListComp\ListComp\bin\Debug\net6.0\ListComp.pdb
+D:\ProgrammingStuff\RiderProjects\Hazi2\ListComp\ListComp\obj\Debug\net6.0\ListComp.csproj.AssemblyReference.cache
+D:\ProgrammingStuff\RiderProjects\Hazi2\ListComp\ListComp\obj\Debug\net6.0\ListComp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingStuff\RiderProjects\Hazi2\ListComp\ListComp\obj\Debug\net6.0\ListComp.AssemblyInfoInputs.cache
+D:\ProgrammingStuff\RiderProjects\Hazi2\ListComp\ListComp\obj\Debug\net6.0\ListComp.AssemblyInfo.cs
+D:\ProgrammingStuff\RiderProjects\Hazi2\ListComp\ListComp\obj\Debug\net6.0\ListComp.csproj.CoreCompileInputs.cache
+D:\ProgrammingStuff\RiderProjects\Hazi2\ListComp\ListComp\obj\Debug\net6.0\ListComp.dll
+D:\ProgrammingStuff\RiderProjects\Hazi2\ListComp\ListComp\obj\Debug\net6.0\refint\ListComp.dll
+D:\ProgrammingStuff\RiderProjects\Hazi2\ListComp\ListComp\obj\Debug\net6.0\ListComp.pdb
+D:\ProgrammingStuff\RiderProjects\Hazi2\ListComp\ListComp\obj\Debug\net6.0\ListComp.genruntimeconfig.cache
+D:\ProgrammingStuff\RiderProjects\Hazi2\ListComp\ListComp\obj\Debug\net6.0\ref\ListComp.dll

@@ -1,0 +1,15 @@
+D:\ProgrammingStuff\RiderProjects\Hazi2\LessThan1000LinQ\LessThan1000LinQ\obj\Debug\net6.0\LessThan1000LinQ.csproj.AssemblyReference.cache
+D:\ProgrammingStuff\RiderProjects\Hazi2\LessThan1000LinQ\LessThan1000LinQ\obj\Debug\net6.0\LessThan1000LinQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingStuff\RiderProjects\Hazi2\LessThan1000LinQ\LessThan1000LinQ\obj\Debug\net6.0\LessThan1000LinQ.AssemblyInfoInputs.cache
+D:\ProgrammingStuff\RiderProjects\Hazi2\LessThan1000LinQ\LessThan1000LinQ\obj\Debug\net6.0\LessThan1000LinQ.AssemblyInfo.cs
+D:\ProgrammingStuff\RiderProjects\Hazi2\LessThan1000LinQ\LessThan1000LinQ\obj\Debug\net6.0\LessThan1000LinQ.csproj.CoreCompileInputs.cache
+D:\ProgrammingStuff\RiderProjects\Hazi2\LessThan1000LinQ\LessThan1000LinQ\bin\Debug\net6.0\LessThan1000LinQ.exe
+D:\ProgrammingStuff\RiderProjects\Hazi2\LessThan1000LinQ\LessThan1000LinQ\bin\Debug\net6.0\LessThan1000LinQ.deps.json
+D:\ProgrammingStuff\RiderProjects\Hazi2\LessThan1000LinQ\LessThan1000LinQ\bin\Debug\net6.0\LessThan1000LinQ.runtimeconfig.json
+D:\ProgrammingStuff\RiderProjects\Hazi2\LessThan1000LinQ\LessThan1000LinQ\bin\Debug\net6.0\LessThan1000LinQ.dll
+D:\ProgrammingStuff\RiderProjects\Hazi2\LessThan1000LinQ\LessThan1000LinQ\bin\Debug\net6.0\LessThan1000LinQ.pdb
+D:\ProgrammingStuff\RiderProjects\Hazi2\LessThan1000LinQ\LessThan1000LinQ\obj\Debug\net6.0\LessThan1000LinQ.dll
+D:\ProgrammingStuff\RiderProjects\Hazi2\LessThan1000LinQ\LessThan1000LinQ\obj\Debug\net6.0\refint\LessThan1000LinQ.dll
+D:\ProgrammingStuff\RiderProjects\Hazi2\LessThan1000LinQ\LessThan1000LinQ\obj\Debug\net6.0\LessThan1000LinQ.pdb
+D:\ProgrammingStuff\RiderProjects\Hazi2\LessThan1000LinQ\LessThan1000LinQ\obj\Debug\net6.0\LessThan1000LinQ.genruntimeconfig.cache
+D:\ProgrammingStuff\RiderProjects\Hazi2\LessThan1000LinQ\LessThan1000LinQ\obj\Debug\net6.0\ref\LessThan1000LinQ.dll
